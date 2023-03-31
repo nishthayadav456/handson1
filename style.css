@@ -1,0 +1,43 @@
+h1{
+    color:red;
+}
+h2{
+    color:red;
+    font-style: italic;
+}
+ol{
+    line-height: 50px;
+    color: brown;
+
+}
+.lt{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+.bg{
+    background-color: yellow;
+    font-weight: bold;
+}
+.con{
+    font-style: italic;
+    text-decoration: underline;
+}
+.con2{
+    letter-spacing: 7px;
+    color:brown
+}
+
+.pre{
+    color: brown;
+}
+
+a{
+    background-color: yellow;
+    font-style: italic;
+    color:red;
+    text-decoration: none;
+}
+
+    
+
+
